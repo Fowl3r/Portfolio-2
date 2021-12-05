@@ -1,0 +1,12 @@
+<svg class = "hero-design" width="738" height="737" viewBox="0 0 738 737">
+  <g id="Hero_image" data-name="Hero image" transform="translate(-822 -228)">
+    <rect className = "square-anim"  data-name="Rectangle 4" width="185" height="185" rx="23" transform="translate(1190 228)" fill="#9f1cc6"/>
+    <rect className = "square-anim" data-name="Rectangle 8" width="185" height="185" rx="23" transform="translate(1190 598)" fill="#9f1cc6"/>
+    <rect className = "square-anim" data-name="Rectangle 6" width="185" height="185" rx="23" transform="translate(1375 413)" fill="#9f1cc6" opacity="0.4"/>
+    <rect className = "square-anim" data-name="Rectangle 5" width="185" height="185" rx="23" transform="translate(1007 413)" fill="#fff"/>
+    <rect className = "square-anim" data-name="Rectangle 9" width="185" height="185" rx="23" transform="translate(1007 780)" fill="#fff"/>
+    <rect className = "square-anim" data-name="Rectangle 7" width="185" height="185" rx="23" transform="translate(822 595)" fill="#fff" opacity="0.4"/>
+    <circle className = "square-anim" data-name="Ellipse 2" cx="92.5" cy="92.5" r="92.5" transform="translate(1192 413)" fill="#fec20d"/>
+    <circle className = "square-anim" data-name="Ellipse 3" cx="89" cy="89" r="89" transform="translate(1012 600)" fill="#0ab8f6"/>
+  </g>
+</svg>

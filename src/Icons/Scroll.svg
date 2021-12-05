@@ -1,0 +1,9 @@
+<svg class = "scroll" width="40.188" height="83.945" viewBox="0 0 40.188 83.945">
+  <g id="Scroll" transform="translate(-217 -586)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(217 586)" fill="none" stroke="#fff" stroke-width="6">
+      <rect width="40.188" height="83.945" rx="20.094" stroke="none"/>
+      <rect x="3" y="3" width="34.188" height="77.945" rx="17.094" fill="none"/>
+    </g>
+    <ellipse className = "ellipse" id="Ellipse_1" data-name="Ellipse 1" cx="11.094" cy="13" rx="11.094" ry="13" transform="translate(226 596)" fill="#fff"/>
+  </g>
+</svg>
